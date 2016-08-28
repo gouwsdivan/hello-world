@@ -1,2 +1,3 @@
 # hello-world
-The description is optional but hey...
+
+I don't have any experience with moon tacos, but it sounds like a good idea
